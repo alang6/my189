@@ -1,4 +1,4 @@
-天翼云盘签到
+天翼云盘签到  20210925签到自动断开，暂停动作。
 
 forked from [Wang-KH/Cloud189Checkin-Actions](https://github.com/Wang-KH/Cloud189Checkin-Actions) [YafengLiang/Check189](https://github.com/YafengLiang/Check189)
 
